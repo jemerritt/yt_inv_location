@@ -1,6 +1,6 @@
 # yt_inventory
 
-This web inventory location app was built using javascript as well as php for the SQL database connections. It was designed to assist with a friend's inventory management for their online web store. They did not want quantity tracking as their web storefront handles item quantity in stock. This app instead aims to provide a reliable way to find items stored in their warehouse. Warehouse locations and bins are labeled which allows this app to pair entered sku numbers with locations.
+This web inventory location app was built using javascript as well as php for the SQL database connections. Item quantity tracking is handled in web-based storefront. This app instead aims to provide a reliable way to find items stored in warehouse. Warehouse locations and bins are labeled which allows this app to pair entered sku numbers with locations.
 
 Add Item
 This page allows the user to enter a sku number and location which will be sent to the database for storage.
